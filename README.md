@@ -10,8 +10,10 @@ A simple, customizable command-line tool for generating strong random passwords 
 
 
 🚀 Getting Started
+
 📋 Prerequisites
 ☕ Java JDK 8 or higher
+
 
 🛠️ Installation
 Clone the repository:
